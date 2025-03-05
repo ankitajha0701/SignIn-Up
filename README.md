@@ -13,4 +13,4 @@ This project contains SignIn and SignUp pages developed using React.js for an in
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ankitajha0701/SignIn-Up.git
